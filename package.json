@@ -1,0 +1,1 @@
+{"name":"carealert-3d-beacon","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"@react-three/drei":"latest","@react-three/fiber":"latest","@vitejs/plugin-react":"latest","react":"latest","react-dom":"latest","three":"latest","vite":"latest"},"devDependencies":{}}
